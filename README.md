@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Somaye Shiri
 
-<!--
-**Somaye-Shiri/Somaye-Shiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | SQL | Python
 
-Here are some ideas to get you started:
+Turning raw data into meaningful insights through analytics and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🌱 Currently learning Git, Advanced SQL and Python
+- 📈 Building interactive dashboards with Power BI
+- 🎯 Looking for opportunities as a Data Analyst
+
+---
+
+## 🛠 Tech Stack
+
+- Power BI
+- SQL Server
+- Python
+- Git
+- GitHub
+- Excel
+- Power Query
+- DAX
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Titanic Dashboard
+Power BI dashboard for analyzing Titanic passenger data.
+
+### 📈 Tender Dashboard
+Business Intelligence dashboard for tender analysis.
+
+### 🌿 Git Practice
+Learning Git workflow, diff, patch and version control.
+
+---
+
+## 📜 Certificates
+
+Coming Soon...
+
+---
+
+## 🌍 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/somaye-shiri-a36b2a164
+- ✈ Telegram: https://t.me/Somaye_Shiri
+- 📧 Email: somayye.shiri1989@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
