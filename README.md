@@ -8,10 +8,10 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 ## 👩‍💻 About Me
 
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🌱 Currently learning Git, Advanced SQL and Python
-- 📈 Building interactive dashboards with Power BI
-- 🎯 Looking for opportunities as a Data Analyst
+- Passionate about Data Analytics & Business Intelligence
+- Currently learning Git, Advanced SQL and Python
+- Building interactive dashboards with Power BI
+- Looking for opportunities as a Data Analyst
 
 ---
 
@@ -20,8 +20,6 @@ Turning raw data into meaningful insights through analytics and visualization.
 - Power BI
 - SQL Server
 - Python
-- Git
-- GitHub
 - Excel
 - Power Query
 - DAX
@@ -30,10 +28,10 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 ## 📂 Featured Projects
 
-### 📊 Titanic Dashboard
+### Titanic Dashboard
 Power BI dashboard for analyzing Titanic passenger data.
 
-### 📈 Tender Dashboard
+### Tender Dashboard
 Business Intelligence dashboard for tender analysis.
 
 ---
