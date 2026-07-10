@@ -36,9 +36,6 @@ Power BI dashboard for analyzing Titanic passenger data.
 ### 📈 Tender Dashboard
 Business Intelligence dashboard for tender analysis.
 
-### 🌿 Git Practice
-Learning Git workflow, diff, patch and version control.
-
 ---
 
 ## 📜 Certificates
@@ -49,9 +46,9 @@ Coming Soon...
 
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/somaye-shiri-a36b2a164
-- ✈ Telegram: https://t.me/Somaye_Shiri
-- 📧 Email: somayye.shiri1989@gmail.com
+- LinkedIn: https://www.linkedin.com/in/somaye-shiri
+- Telegram: https://t.me/Somaye_Shiri
+- Email: somayye.shiri1989@gmail.com
 
 ---
 
